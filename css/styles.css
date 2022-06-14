@@ -1,0 +1,22 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+hr {
+    border-style: dotted;
+    width: 5%;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-color: grey;
+    border-width: 5px;
+}
+
+h1 {
+    color: grey;
+    font-style: oblique;
+}
+
+h3 {
+    color: grey;
+}
